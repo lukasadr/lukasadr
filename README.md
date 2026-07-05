@@ -38,7 +38,7 @@ I am a passionate Full-Stack Developer with a strong specialization in Backend E
 - 🎯 **Goals:** Writing clean, maintainable code following enterprise architecture patterns.
 
 ---
-
 ### 🤝 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📧 [Email](mailto:your.email@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahina-lukas-andr%C3%A9-randrianandraina-670743280/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukafia69@gmail.com)
